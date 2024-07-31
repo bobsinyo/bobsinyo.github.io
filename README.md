@@ -76,13 +76,6 @@
       </div>
     </div>
 
-    <footer class="text-center text-black-500 text-xs p-4">
-      <p>
-        Made with <span class="text-pink-500">♥</span> by
-        <a href="https://github.com/pilarxyz/cek-rekening">pilarxyz</a>
-      </p>
-    </footer>
-
     <script>
       async function fetchData() {
         var layanan = document.getElementById("layanan").value;
